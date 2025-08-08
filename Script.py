@@ -6,13 +6,13 @@
 class script(object):
     START_TXT = """<b>Hello {} 👋,
     
-✏️ I Am Video Player Bot, I Stream File On Website And Earn Unlimited Money 💰.
+✏️ I Am Warrior Video Player Bot, I Stream File On Website And Earn Unlimited Money 💰.
 
-Send Me Any VJDisk Link Or Any File To See My Power.✨
+Send Me Any Video Link Or Any File To See My Power.✨
 
 For Uploading File In Quality Option Use Command /quality
 
-More Commands Are /account , /update and /withdraw</b>"""
+More Commands Are /account , /update and /withdraw @WarriorUnitsBots</b>"""
     
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
